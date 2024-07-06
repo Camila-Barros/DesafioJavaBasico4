@@ -34,20 +34,20 @@ Implementar uma aplicação para consultar um endereço a partir de um CEP e sal
 
 Consulta ao CEP informado, realizada com sucesso.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image1.png)
+![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image1.png)
 
 
 <b>TELA 2</b>
 
 Arquivo com os dados do CEP informado, e nomeado com o próprio CEP.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image2.png)
+![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image2.png)
 
 <b>TELA 3</b>
 
 Consulta ao CEP informado não realizada, devido ao CEP não ter sido encontrado.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image3.png)
+![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image3.png)
 
 
 
